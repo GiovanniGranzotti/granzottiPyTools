@@ -8,3 +8,5 @@ Para aprender a usar o pytools
     [Editar e salvar um arquivo gitignore](https://pt.stackoverflow.com/questions/254320/como-salvar-e-sair-no-vim/254322#254322?newreg=6321e3c5676941688ba522414f4b6af9)
     
 Este projeto vai trabalhar com a versão 3 do python.
+
+* no di **28/10/2020** aprendi a instalar bibliotecas de terceiros.
