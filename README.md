@@ -2,6 +2,7 @@
 Para aprender a usar o pytools
 
 [![Build Status](https://travis-ci.org/GiovanniGranzotti/granzottiPyTools.svg?branch=main)](https://travis-ci.org/GiovanniGranzotti/granzottiPyTools)
+[![Build Status](https://travis-ci.com/GiovanniGranzotti/libpythonpro.svg?branch=master)](https://travis-ci.com/GiovanniGranzotti/libpythonpro)
    
 Suportada a versão 3 do python.
 
