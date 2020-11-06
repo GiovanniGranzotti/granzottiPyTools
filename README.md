@@ -29,3 +29,4 @@ flake8
 * no dia **29/10/2020** aprendi a criar o arquivo requirements para instalação das dependêcias.
 * no dia **29/10/2020** aprendi a usar o flake8.
 * no dia **29/10/2020** configurei o travis CI.
+* no dia **5/11/2020** Integrei com o PyUp.
