@@ -3,6 +3,8 @@ Para aprender a usar o pytools
 
 [![Build Status](https://travis-ci.org/GiovanniGranzotti/granzottiPyTools.svg?branch=main)](https://travis-ci.org/GiovanniGranzotti/granzottiPyTools)
 [![Build Status](https://travis-ci.com/GiovanniGranzotti/libpythonpro.svg?branch=master)](https://travis-ci.com/GiovanniGranzotti/libpythonpro)
+[![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
+[![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
    
 Suportada a versão 3 do python.
 
