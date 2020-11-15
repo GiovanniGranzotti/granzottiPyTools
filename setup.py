@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "granzottiPyTools"
+PACKAGE = "libgranzottiPyTools"
 NAME = PACKAGE
 DESCRIPTION = "Para aprender a usar o pytools"
 AUTHOR = "Giovanni Granzotti"
