@@ -31,3 +31,4 @@ flake8
 * no dia **5/11/2020** Integrei com o PyUp.
 * no dia **11/11/2020** Criado o arquivo setup.py.
 * no dia **15/11/2020** Feito o realese no pypi e no testpypi.
+* no dia **20/11/2020** Atualizando os arqivos e tentando consertar a versão do projeto.
