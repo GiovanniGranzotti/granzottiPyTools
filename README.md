@@ -18,6 +18,17 @@ Para conferir qualidade do código:
 ```console
 flake8
 ```
+
+Para fazer upload no pypi test server:
+```console
+twine upload --repository testpypi dist\*
+```
+
+Para instalar a partir do pypi test server:
+```console
+pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
+```
+
 * no dia **27/10/2020** aprendi a usar o gitignore. Os links úteis foram:
 
     [Criar gitignore](https://medium.com/@devmasterteam/touch-para-criar-um-arquivo-gitignore-9bb2d453ac53)
@@ -32,3 +43,8 @@ flake8
 * no dia **11/11/2020** Criado o arquivo setup.py.
 * no dia **15/11/2020** Feito o realese no pypi e no testpypi.
 * no dia **20/11/2020** Atualizando os arqivos e tentando consertar a versão do projeto.
+* no dia **20/11/2020** Feito o realese no pypi test server da versão 0.2.2. Links últeis:
+    
+    [How to upload your package to the Python Package Index (PyPI) test server](https://kynan.github.io/blog/2020/05/23/how-to-upload-your-package-to-the-python-package-index-pypi-test-server) 
+    
+    [Using TestPyPI](https://packaging.python.org/guides/using-testpypi/)
