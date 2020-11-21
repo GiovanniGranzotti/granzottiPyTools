@@ -5,6 +5,7 @@ import sys
 from distutils.util import convert_path
 from fnmatch import fnmatchcase
 from setuptools import setup, find_packages
+from os import path
 
 
 def read(fname):
@@ -93,12 +94,6 @@ def find_package_data(
                 out.setdefault(package, []).append(prefix + name)
     return out
 
-from os import path
-
-this_directory = path.abspath(path.dirname(__file__))
-with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
-    long_description = f.read()
-
 
 PACKAGE = "libgranzottiPyTools"
 NAME = PACKAGE
@@ -107,6 +102,11 @@ AUTHOR = "Giovanni Granzotti"
 AUTHOR_EMAIL = "giogranzotti@hotmail.com"
 URL = "https://github.com/GiovanniGranzotti/granzottiPyTools"
 VERSION = __import__(PACKAGE).__version__
+
+
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
 
 setup(
     name=NAME,
@@ -124,6 +124,7 @@ setup(
         "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
         "Intended Audience :: Developers",
+        "License :: MIT License",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3.8",
         "Framework :: Pytest",
