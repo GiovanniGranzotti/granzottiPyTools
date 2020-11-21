@@ -93,6 +93,12 @@ def find_package_data(
                 out.setdefault(package, []).append(prefix + name)
     return out
 
+from os import path
+
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
+
 
 PACKAGE = "libgranzottiPyTools"
 NAME = PACKAGE
@@ -106,7 +112,7 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read('README.md'),
+    long_description=long_description,
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
