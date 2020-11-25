@@ -48,3 +48,5 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
     [How to upload your package to the Python Package Index (PyPI) test server](https://kynan.github.io/blog/2020/05/23/how-to-upload-your-package-to-the-python-package-index-pypi-test-server) 
     
     [Using TestPyPI](https://packaging.python.org/guides/using-testpypi/)
+
+* no dia **24/11/2020** Instalação do Pytest.
