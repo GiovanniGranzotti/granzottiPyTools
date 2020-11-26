@@ -50,3 +50,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
     [Using TestPyPI](https://packaging.python.org/guides/using-testpypi/)
 
 * no dia **24/11/2020** Instalação do Pytest.
+* no dia **25/11/2020** Criado arquivo para testes e configurado o pytest.
