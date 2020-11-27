@@ -4,6 +4,7 @@ Para aprender a usar o pytools
 [![Build Status](https://travis-ci.com/GiovanniGranzotti/libpythonpro.svg?branch=master)](https://travis-ci.com/GiovanniGranzotti/libpythonpro)
 [![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
 [![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
+[![codecov](https://codecov.io/gh/GiovanniGranzotti/libpythonpro/branch/master/graph/badge.svg?token=MHPXKxPsfc)](https://codecov.io/gh/GiovanniGranzotti/libpythonpro)
    
 Suportada a versão 3 do python.
 
@@ -39,7 +40,7 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 * no dia **29/10/2020** aprendi a criar o arquivo requirements para instalação das dependêcias.
 * no dia **29/10/2020** aprendi a usar o flake8.
 * no dia **29/10/2020** configurei o travis CI.
-* no dia **5/11/2020** Integrei com o PyUp.
+* no dia **05/11/2020** Integrei com o PyUp.
 * no dia **11/11/2020** Criado o arquivo setup.py.
 * no dia **15/11/2020** Feito o realese no pypi e no testpypi.
 * no dia **20/11/2020** Atualizando os arqivos e tentando consertar a versão do projeto.
@@ -51,3 +52,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 
 * no dia **24/11/2020** Instalação do Pytest.
 * no dia **25/11/2020** Criado arquivo para testes e configurado o pytest.
+* no dia **27/11/2020** Adicionado cobertura de código no projeto.
