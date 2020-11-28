@@ -4,7 +4,7 @@ Para aprender a usar o pytools
 [![Build Status](https://travis-ci.com/GiovanniGranzotti/libpythonpro.svg?branch=master)](https://travis-ci.com/GiovanniGranzotti/libpythonpro)
 [![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
 [![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
-[![codecov](https://codecov.io/gh/GiovanniGranzotti/libpythonpro/branch/master/graph/badge.svg?token=MHPXKxPsfc)](https://codecov.io/gh/GiovanniGranzotti/libpythonpro)
+[![codecov](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools/branch/main/graph/badge.svg?token=SUXUN1E58H)](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools)
    
 Suportada a versão 3 do python.
 
@@ -52,5 +52,7 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 
 * no dia **24/11/2020** Instalação do Pytest.
 * no dia **25/11/2020** Criado arquivo para testes e configurado o pytest.
-* no dia **27/11/2020** Adicionado cobertura de código no projeto.
-* testando o pytest-cov.
+* no dia **27/11/2020** Adicionado cobertura de código no projeto. Link útil:
+
+    [codecov overview](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
+    
