@@ -56,3 +56,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 
     [codecov overview](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
     
+* no dia **27/11/2020** Aprendi TDD e Baby Steps.
