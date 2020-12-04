@@ -58,3 +58,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
     
 * no dia **27/11/2020** Aprendi TDD e Baby Steps.
 * no dia **30/11/2020** Aprendi a usar o Parametrize.
+* no dia **03/12/2020** Aprendi a criar exceções.
