@@ -61,3 +61,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 * no dia **03/12/2020** Aprendi a criar exceções.
 * no dia **05/12/2020** Aprendi a isolar testes.
 * no dia **06/12/2020** Aprendi a usar Setup e Tear down com Fixture.
+* no dia **08/12/2020** Criei o arquivo Conftest.
