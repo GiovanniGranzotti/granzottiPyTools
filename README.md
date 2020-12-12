@@ -12,7 +12,7 @@ Para instalar:
 ```console
 py -3 -m venv .venv
 source .venv\Scripts\activate
-pip install -r requiremets-dev.txt
+pip install -r requirements-dev.txt
 ```
 
 Para conferir qualidade do código:
@@ -63,3 +63,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 * no dia **06/12/2020** Aprendi a usar Setup e Tear down com Fixture.
 * no dia **08/12/2020** Criei o arquivo Conftest.
 * no dia **10/12/2020** Produção de código testável.
+* no dia **12/12/2020** Injeção de dependências.
