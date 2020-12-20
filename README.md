@@ -65,4 +65,5 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 * no dia **10/12/2020** Produção de código testável.
 * no dia **12/12/2020** Injeção de dependências.
 * no dia **14/12/2020** Uso do Mock.
-* no dia **19/12/2020** Aprendi a isolar testes
+* no dia **19/12/2020** Aprendi a isolar testes com fixture e mock.
+* no dia **20/12/2020** Aprendi a usar a biblioteca pytest-mock.
