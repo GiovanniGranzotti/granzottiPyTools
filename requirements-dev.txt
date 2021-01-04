@@ -13,7 +13,7 @@ pytest==6.2.1
 toml==0.10.2
 
 #Plugin pytest
-pytest-mock==3.4.0
+pytest-mock==3.5.0
 
 #Codecov
 pytest-cov==2.10.1
