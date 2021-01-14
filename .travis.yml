@@ -5,7 +5,7 @@ install:
   - pip install -q pipenv codecov
   - pipenv sync --dev
 script:
-  - flake8
-  - pytest libgranzottiPyTools --cov=libgranzottiPyTools
+  - pipenv run flake8 .
+  - pipenv run pytest libgranzottiPyTools --cov=libgranzottiPyTools
 after_success:
-  - codecov
+  - pipenv run codecov
