@@ -3,7 +3,7 @@
 requirements:
   - Pipfile
   - Pipfile.lock
-"
+
 schedule: ''
 Update: all
 Search: True
@@ -13,4 +13,3 @@ Branch pre-fix: pyup-
 Close PRs: True
 Label PRs: False
 Update hashes: True
-"
