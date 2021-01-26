@@ -1,7 +1,7 @@
 # granzottiPyTools
 Para aprender a usar o pytools
 
-[![Build Status](https://travis-ci.com/GiovanniGranzotti/libpythonpro.svg?branch=master)](https://travis-ci.com/GiovanniGranzotti/libpythonpro)
+[![Build Status](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools.svg?branch=main)](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools)
 [![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
 [![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
 [![codecov](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools/branch/main/graph/badge.svg?token=SUXUN1E58H)](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools)
@@ -67,3 +67,4 @@ pip install -i https://test.pypi.org/simple/ libgranzottiPyTools
 * no dia **14/12/2020** Uso do Mock.
 * no dia **19/12/2020** Aprendi a isolar testes com fixture e mock.
 * no dia **20/12/2020** Aprendi a usar a biblioteca pytest-mock.
+* no dia **17/01/2021** Terminado o Pytools.
