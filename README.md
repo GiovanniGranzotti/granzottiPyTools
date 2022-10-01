@@ -1,10 +1,10 @@
 # granzottiPyTools
 Para aprender a usar o pytools
 
-\\[![Build Status](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools.svg?branch=main)](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools)
-\\[![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
-\\[![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
-\\[![codecov](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools/branch/main/graph/badge.svg?token=SUXUN1E58H)](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools)
+[![Build Status](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools.svg?branch=main)](https://travis-ci.com/GiovanniGranzotti/granzottiPyTools)
+[![Updates](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
+[![Python 3](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/python-3-shield.svg)](https://pyup.io/repos/github/GiovanniGranzotti/granzottiPyTools/)
+[![codecov](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools/branch/main/graph/badge.svg?token=SUXUN1E58H)](https://codecov.io/gh/GiovanniGranzotti/granzottiPyTools)
    
 Suportada a versão 3 do python.
 
